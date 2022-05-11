@@ -90,6 +90,7 @@ body {
   box-shadow: inset 0px 5px 10px rgba(0, 0, 0, 0.473);
 }
 .cop p {
+  text-decoration: none;
   text-align: center;
   font-weight: bold;
   line-height: 70px;
@@ -130,11 +131,11 @@ body {
 }
 /* Tanggal Dan Waktu */
 .Waktu {
-  margin-top: -180px;
-  margin-left: 470px;
+  margin-top: -176px;
+  margin-left: 445px;
 }
 .kotak {
-  width: 300px;
+  width: 335px;
   height: 100px;
   margin: -50px;
 }
