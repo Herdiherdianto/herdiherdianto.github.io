@@ -130,8 +130,8 @@ body {
 }
 /* Tanggal Dan Waktu */
 .Waktu {
-  margin-top: -160px;
-  margin-left: 460px;
+  margin-top: -180px;
+  margin-left: 470px;
 }
 .kotak {
   width: 300px;
@@ -139,10 +139,11 @@ body {
   margin: -50px;
 }
 .Waktu p {
-  font-size: 40px;
+  font-size: 35px;
   color: rgb(156, 78, 230);
   text-align: center;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.208);
   font-family: sans-serif;
   font-weight: bold;
+  line-height: -100px;
 }
