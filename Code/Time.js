@@ -9,3 +9,6 @@ thisDay = myDays[thisDay];
 let yy = date.getFullYear();
 let year = yy < 1000 ? yy + 1900 : yy;
 document.getElementById("Tanggal").innerHTML = thisDay + "," + day + " " + months[month] + " " + year;
+document.getElementById("WAKTU").innerHTML = thisDay + "," + day + " " + months[month] + " " + year;
+
+alert("Terima kasih Sudah Berkunjung XD Salam Hangat Dari HerdiHerdianto");
