@@ -182,7 +182,7 @@ body {
   -webkit-text-stroke: 2px rgba(0, 0, 0, 0.7);
 }
 /* HARI */
-.hari {
+.hari2 {
   height: 410px;
   width: 190px;
   border: 2px solid rgba(0, 0, 0, 0.507);
@@ -192,7 +192,7 @@ body {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
   border-radius: 20px;
 }
-.atas {
+.atas2 {
   width: 100%;
   height: 13%;
   border: 1px solid rgba(0, 0, 0, 0.411);
@@ -205,7 +205,7 @@ body {
   background-position: 0px -15px;
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.445);
 }
-.atas h2 {
+.atas2 h2 {
   line-height: 25%;
   font-family: sans-serif;
   text-align: center;
@@ -213,10 +213,10 @@ body {
   font-weight: 1000;
   -webkit-text-stroke: 2px rgba(0, 0, 0, 0.8);
 }
-.hari {
+.hari2 {
   text-align: center;
 }
-.hari p {
+.hari2 p {
   font-family: sans-serif;
   font-weight: 900px;
   font-size: 35px;
@@ -306,3 +306,4 @@ body {
 
 
 }
+
