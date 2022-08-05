@@ -402,3 +402,12 @@ body {
   line-height: 27px;
   color: #ffc501;
 }
+
+/* Media query */
+
+@media (max-width: 480px) {
+}
+@viewport {
+  zoom: 7;
+  width: 1080;
+}
