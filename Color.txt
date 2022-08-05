@@ -1,0 +1,4 @@
+Warna Orange #FFC501
+Waran Abu #303030
+Warna Bulat2 #494646
+font "Inria Sans"
